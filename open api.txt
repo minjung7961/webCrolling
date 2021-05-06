@@ -1,3 +1,9 @@
 naver opne api
+
 Client ID : 5JdGkYvLuXbyk5oUhJp6
 Client Secret : 61D7pP3VAZ
+
+공공api
+요청 주소 : http://apis.data.go.kr/B552584/ArpltnInforInqireSvc/getMinuDustFrcstDspth
+일반 인증키 : lJ%2F3p39Oo9MGopDLSyAj8TkGCJ01DaEx0JrrSmZyZZZKafeFH6vo7%2B4rCzMn8b1%2FLCXe4JhOOX9kRwc14WyPiw%3D%3D
+serviceKey : 

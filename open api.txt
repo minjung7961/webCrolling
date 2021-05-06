@@ -1,0 +1,3 @@
+naver opne api
+Client ID : 5JdGkYvLuXbyk5oUhJp6
+Client Secret : 61D7pP3VAZ
